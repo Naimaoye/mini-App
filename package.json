@@ -1,0 +1,51 @@
+{
+  "name": "mini-app",
+  "version": "1.0.0",
+  "description": "A react app that displays the nutritional value of a product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack  --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naimaoye/mini-App.git"
+  },
+  "keywords": [
+    "nutritional",
+    "value",
+    "nutrifit"
+  ],
+  "author": "Naimat Oyewale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naimaoye/mini-App/issues"
+  },
+  "homepage": "https://github.com/Naimaoye/mini-App#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "css-loader": "^1.0.0",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.8.1"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
