@@ -1,2 +1,2 @@
 # mini-App
-A mini react Application
+A mini react Application named ## nutrifit
