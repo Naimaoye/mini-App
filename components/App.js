@@ -1,9 +1,11 @@
 import React from 'react';
+import '../src/style.css';
+import TodoList from './todoList';
 
 const App = () => {
   return (
     <div>
-      <h1>You just setup react with babel and eslint</h1>
+      <TodoList/>
     </div>
   );
 };
