@@ -1,5 +1,4 @@
 body{
-    padding: 50px;
     background-color: #334242;
     font-family: sans-serif;
 }
@@ -7,4 +6,7 @@ body{
     display: flex;
     justify-content: flex;
     color: white;
+}
+.container{
+    margin: 0 auto;
 }
