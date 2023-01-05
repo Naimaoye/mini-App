@@ -25,7 +25,7 @@
   "homepage": "https://github.com/Naimaoye/mini-App#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.0",
-    "@babel/core": "^7.1.0",
+    "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.2",
@@ -37,7 +37,7 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0",
     "html-loader": "^0.5.5",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "react-flip-move": "^3.0.3",
     "style-loader": "^0.23.0",
     "webpack": "^4.19.1",
